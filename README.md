@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @hss245
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hss245/hss245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi,
+- I’m Harpreet Singh Sachdev
+- I am working as a Senior Data Scientist in Sachdev AI Solutions
+- My skills include Python, Data Science, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Generative AI, Automations, Statistics
+- Here is my linkedin Link : https://www.linkedin.com/in/harpreetssachdev/
+- I co founded a company named as Sachdev AI Solutions which provided AI consultancy (website : https://www.sachdevaisolutions.com/) 
+- You can reach me at +91-9024813664
